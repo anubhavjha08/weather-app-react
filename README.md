@@ -1,6 +1,6 @@
 # weather-app-react
 
-A basic weather app butil in react which provides various information by calling weather API.
+A basic weather app built in react which provides various information by calling weather API.
 
 # React + Vite
 
