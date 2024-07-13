@@ -1,3 +1,7 @@
+# weather-app-react
+
+A basic weather app butil in react which provides various information by calling weather API.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
